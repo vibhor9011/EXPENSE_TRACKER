@@ -8,15 +8,14 @@ This is a simple command-line application that allows the user to add expenses, 
 It is designed using basic Python concepts like lists, dictionaries, loops, and functions.
 
 # Features
-- Add an expense (amount, category, note)
-- View all saved expenses
-- Check total amount spent
-- Easy menu-based interface
+Add an expense (amount, category, note)
+View all saved expenses
+Check total amount spent
+Easy menu-based interface
 
 # Technologies / Tools Used
-- Python 3
-- Any code editor (VS Code, PyCharm, etc.)
-- No external libraries required
+Python 3.11
+Jupyter Notebook
 
 # Steps to Install & Run the Project
 1. Make sure Python is installed on your system.
