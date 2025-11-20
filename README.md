@@ -1,5 +1,3 @@
-<img width="1065" height="697" alt="image" src="https://github.com/user-attachments/assets/f848f181-76ad-4efd-8a0f-5e0d1a43dff9" />## Expense Tracker (Python)
-
 # Project Title
 Expense Tracker – A basic Python program to record daily expenses.
 
