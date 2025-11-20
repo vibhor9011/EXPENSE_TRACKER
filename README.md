@@ -1,14 +1,25 @@
 ## Expense Tracker (Python)
-This is a small Python program I made to keep track of daily expenses.  
-The idea is very basic: I can add an expense, view whatever I added, and check the total amount I have spent.
-The whole project is written using simple Python concepts like lists, loops, functions, and user input.
 
-## Features
-1.Add a new expense (amount, category, note)
-2.View all expenses in a list format
-3.Calculate the total amount spent
-4.Simple menu-based command-line interface
+# Project Title
+Expense Tracker – A basic Python program to record daily expenses.
 
-## How It Works
-All expenses are stored in a Python list called expenses.  
-Whenever the user adds something, it gets saved in the list as a small dictionary like:
+# Overview of the Project
+This is a simple command-line application that allows the user to add expenses, view the list of all expenses, and calculate the total amount spent.  
+It is designed using basic Python concepts like lists, dictionaries, loops, and functions.
+
+# Features
+- Add an expense (amount, category, note)
+- View all saved expenses
+- Check total amount spent
+- Easy menu-based interface
+
+# Technologies / Tools Used
+- Python 3
+- Any code editor (VS Code, PyCharm, etc.)
+- No external libraries required
+
+# Steps to Install & Run the Project
+1. Make sure Python is installed on your system.
+2. Keep the file named *expense_tracker.py* in a folder.
+3. Open the terminal or command prompt in that folder.
+4. Run the program using:
