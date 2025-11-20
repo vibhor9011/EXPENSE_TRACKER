@@ -9,9 +9,9 @@ It is designed using basic Python concepts like lists, dictionaries, loops, and 
 
 # Features
 Add an expense (amount, category, note)
-View all saved expenses
-Check total amount spent
-Easy menu-based interface
+ View all saved expenses
+ Check total amount spent
+ Easy menu-based interface
 
 # Technologies / Tools Used
 Python 3.11
