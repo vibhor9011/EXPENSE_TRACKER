@@ -1,23 +1,32 @@
-# Expense Tracker
-## Problem Statement
-Many people spend money on small everyday items but forget how much they have spent in total.  
-There is a need for a simple tool where users can quickly record their expenses and review them later.
+# Project Statement
 
-## Scope of the Project
-This project focuses on building a basic command-line application that helps the user:
-- add expenses,
-- view the list of all expenses,
-- and see the total amount spent.
-The scope is limited to simple data handling using Python lists and does not include advanced features like saving data permanently or using a database.
+## Problem Statement
+
+Students' academic performance can be influenced by factors such as
+study time, attendance, previous marks, assignment performance, and
+sleep. It can be difficult to combine these factors manually and
+estimate whether a student is likely to pass. This project builds a
+simple machine-learning based Student Performance Predictor that
+classifies a student as likely to PASS or FAIL using five inputs.
+
+## Scope
+
+The project covers dataset loading, input validation, feature
+preparation, Decision Tree training, basic evaluation, model
+saving/loading, and student prediction. It is intended for educational
+use and is not a guaranteed academic assessment system.
+
 ## Target Users
-The project is mainly meant for:
-- students
-- less educated people
-- homemakers
-- or anyone who wants a very basic expense recording tool.
+
+-   Students learning Fundamentals of AI/ML
+-   Faculty evaluating a beginner-level ML project
+-   Learners interested in classification using an academic example
 
 ## High-Level Features
-- Add an expense (amount, category, note)
-- Display all recorded expenses
-- Show the total money spent
-- Simple text-based menu for easy use
+
+1.  Dataset loading and validation
+2.  Input preprocessing and validation
+3.  Decision Tree model training
+4.  Model evaluation
+5.  Student result prediction
+6.  Saved model reuse
